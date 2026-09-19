@@ -33,11 +33,11 @@ My work sits at the intersection of **cybersecurity, web engineering, IoT, and a
 
 | Area | Technologies and practices |
 | --- | --- |
-| **Security** | Web application security, penetration-testing fundamentals, vulnerability research, CTF, security reporting |
+| **Security** | Web application security, penetration-testing fundamentals, vulnerability research, CTF, Bug Bounty, security reporting |
 | **Backend & data** | PHP, MySQL, REST-style APIs, application hardening |
 | **Frontend** | React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS |
 | **Scripting & research** | Python, machine-learning workflows, dataset preprocessing and evaluation |
-| **IoT** | ESP8266, device-to-server integration, attendance and monitoring workflows |
+| **IoT** | ESP8266, ESP32, Arduino, device-to-server integration |
 
 
 ## Let’s connect
