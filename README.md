@@ -19,7 +19,7 @@ I learn by building real systems, solving CTF challenges, studying attack
 surfaces, and turning technical findings into clear, actionable reports.
 ```
 
-My work sits at the intersection of **cybersecurity, web engineering, IoT, and applied machine learning**. I enjoy understanding how systems behave end to end—from embedded devices and APIs to dashboards and security controls.
+My work sits at the intersection of **cybersecurity, web engineering, IoT, and applied machine learning**. I enjoy understanding how systems behave end to end-from embedded devices and APIs to dashboards and security controls.
 
 ## Current focus
 
@@ -42,7 +42,7 @@ My work sits at the intersection of **cybersecurity, web engineering, IoT, and a
 
 ## Let’s connect
 
-I am open to conversations about web security, penetration testing, IoT systems, and secure application development. If you are working on something interesting—or simply want to exchange ideas—feel free to reach out through [LinkedIn](https://linkedin.com/in/ekasa) or [email](mailto:ekaseftrian@protonmail.com).
+I am open to conversations about web security, penetration testing, IoT systems, and secure application development. If you are working on something interesting or simply want to exchange ideas, feel free to reach out through [LinkedIn](https://linkedin.com/in/ekasa) or [email](mailto:ekaseftrian@protonmail.com).
 
 <div align="center">
   <sub>Keep learning and stay alive</sub>
