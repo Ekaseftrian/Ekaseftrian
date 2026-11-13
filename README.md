@@ -8,42 +8,37 @@
   <a href="mailto:ekaseftrian@protonmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
 </div>
 
-## About me
+## hey, I'm Eka 👋
 
 ```console
-root@ekasa:~$ cat about.txt
-Cybersecurity enthusiast from Indonesia with a focus on web application
-security, penetration testing, vulnerability research, and secure development.
-
-I learn by building real systems, solving CTF challenges, studying attack
-surfaces, and turning technical findings into clear, actionable reports.
+root@ekasa:~$ whoami
+just a guy from Indonesia who likes breaking web apps (legally)
+and building stuff to see how it works.
 ```
 
-My work sits at the intersection of **cybersecurity, web engineering, IoT, and applied machine learning**. I enjoy understanding how systems behave end to end-from embedded devices and APIs to dashboards and security controls.
+Mostly I poke around web security: pentesting, CTFs, and some bug bounty when I have time. Outside of that I build websites, play with ESP boards and Arduino, and spend way too much time digging through random corners of the internet just to learn something new.
 
-## Current focus
+## what I'm up to
 
-- Strengthening practical web application security and penetration-testing skills.
-- Building low-impact tools for authorized security assessment.
-- Exploring vulnerability research through CTF and bug-bounty practice.
-- Designing secure, maintainable web and IoT systems.
+- getting better at web pentesting, one CTF at a time
+- hunting bugs whenever I get the chance
+- making small tools that help with security testing
+- building IoT stuff that hopefully doesn't get hacked
 
+## tools I use
 
-## Technical toolkit
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,php,mysql,js,ts,react,nextjs,tailwind,html,css,arduino,git&perline=15" alt="Kali Linux, Linux, Bash, Python, PHP, MySQL, JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML, CSS, Arduino, Git" />
+</p>
 
-| Area | Technologies and practices |
-| --- | --- |
-| **Security** | Web application security, penetration-testing fundamentals, vulnerability research, CTF, Bug Bounty, security reporting |
-| **Backend & data** | PHP, MySQL, REST-style APIs, application hardening |
-| **Frontend** | React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS |
-| **Scripting & research** | Python, machine-learning workflows, dataset preprocessing and evaluation |
-| **IoT** | ESP8266, ESP32, Arduino, device-to-server integration |
+## the city I'm building
 
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="My GitHub contributions drawn as a 3D city" width="100%" />
 
-## Let’s connect
+## say hi
 
-I am open to conversations about web security, penetration testing, IoT systems, and secure application development. If you are working on something interesting or simply want to exchange ideas, feel free to reach out through [LinkedIn](https://linkedin.com/in/ekasa) or [email](mailto:ekaseftrian@protonmail.com).
+Want to talk security, IoT, or just share a cool CTF challenge? Hit me up on [LinkedIn](https://linkedin.com/in/ekasa) or [email](mailto:ekaseftrian@protonmail.com).
 
 <div align="center">
-  <sub>Keep learning and stay alive</sub>
+  <sub>keep learning and stay alive</sub>
 </div>
